@@ -1,0 +1,3 @@
+# Log
+
+## [Init] Repository created
